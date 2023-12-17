@@ -14,7 +14,7 @@ const passport = require('passport');
 const PORT = process.env.PORT || 5000;
 
 const corsOptions = {
-    origin:  'https://quiet-sunburst-4667c2.netlify.app/',
+    origin:  'https://quiet-sunburst-4667c2.netlify.app',
     credentials: true,
 };
 
