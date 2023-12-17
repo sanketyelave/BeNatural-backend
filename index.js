@@ -14,7 +14,7 @@ const passport = require('passport');
 const PORT = process.env.PORT || 5000;
 
 const corsOptions = {
-    origin:  'https://be-natural-frontend.vercel.app',
+    origin:  'https://be-natural.vercel.app',
     credentials: true,
 };
 
