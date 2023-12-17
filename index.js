@@ -14,7 +14,7 @@ const passport = require('passport');
 const PORT = process.env.PORT || 5000;
 
 const corsOptions = {
-    origin:  'https://magenta-dusk-440146.netlify.app/',
+    origin:  'https://magenta-dusk-440146.netlify.app//',
     credentials: true,
 };
 
